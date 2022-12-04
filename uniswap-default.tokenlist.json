@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "BUSD Token",
-      "address": "0x47833a3835E06b56db7B5E97aFfE4500AaA0c101",
+      "address": "0x0C13b957a2D6fC42653d3017e40989bAAfb8d033",
       "symbol": "BEP20",
       "decimals": 18,
       "chainId": 14093,
@@ -23,7 +23,7 @@
     },
     {
       "name": "inCube",
-      "address": "0x106a4a2d4Bf112dc7E7b4eF582470A0157b33f59",
+      "address": "0xCCd3226C815E52DfBcF68E08c8202Aeb5C705375",
       "symbol": "INC",
       "decimals": 18,
       "chainId": 14093,
@@ -31,7 +31,7 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x3A3201C28d3c5005fA5F94B06f5d92425B63589F",
+      "address": "0x106a4a2d4Bf112dc7E7b4eF582470A0157b33f59",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 14093,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Wrapped inCube",
-      "address": "0xF25FeF98882e0687F8BceA498d4b783C5fbA9B33",
+      "address": "0xcf7b485F15635Beadc51663154de7B38671d39a3",
       "symbol": "WINC",
       "decimals": 18,
       "chainId": 14093,
