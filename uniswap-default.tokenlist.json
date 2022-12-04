@@ -1,0 +1,49 @@
+{
+  "name": "inCube List",
+  "timestamp": "2022-12-04T07:04:09.768Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "incube",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "BUSD Token",
+      "address": "0x47833a3835E06b56db7B5E97aFfE4500AaA0c101",
+      "symbol": "BEP20",
+      "decimals": 18,
+      "chainId": 14093,
+      "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/burst.png"
+    },
+    {
+      "name": "inCube",
+      "address": "0x106a4a2d4Bf112dc7E7b4eF582470A0157b33f59",
+      "symbol": "INC",
+      "decimals": 18,
+      "chainId": 14093,
+      "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/ethos.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x3A3201C28d3c5005fA5F94B06f5d92425B63589F",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 14093,
+      "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/usdt.png"
+    },
+    {
+      "name": "Wrapped inCube",
+      "address": "0xF25FeF98882e0687F8BceA498d4b783C5fbA9B33",
+      "symbol": "WINC",
+      "decimals": 18,
+      "chainId": 14093,
+      "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/ethos.png"
+    }
+  ]
+}
